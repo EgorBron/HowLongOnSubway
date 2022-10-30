@@ -7,4 +7,4 @@ How long will you be on the subway ride? This little GUI program will help you f
 
 HowLongOnSubway helps you to calculate how long you'll ride on subway. And that's it.
 
-Available for Windows, macOS, Linux and Android. 
+For now available only for Windows. 
